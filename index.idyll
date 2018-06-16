@@ -1,14 +1,21 @@
-[meta title:"Chess" description:"Short description of your project" /]
+[meta title:"Chess" description:"The Rules of Chess" /]
 
 [Header
-  title:"Chess"
-  subtitle:"Welcome to Idyll. Open index.idyll to start writing"
-  author:"Your Name Here"
-  authorLink:"https://idyll-lang.org" /]
+  title:"Rules of Chess"
+  subtitle:"Interactive Chess Tutorial"
+  author:"Alan Tan"
+  authorLink:"https://github.com/tanalan" /]
 
-This is an Idyll file. Write text
-as you please in here. To add interactivity,
-you can add  different components to the text.
+Hi there! This will be writing a tutorial for how to play [chess](https://en.wikipedia.org/wiki/Chess),
+and trying to make the tutorial interactive using [Idyll](https://idyll-lang.org/).
+
+I've been playing chess for years now, and I taught at elementary schools for about 3 years.
+
+Here are some of my online chess profiles:
+* My United States Chess Federation [Profile](http://www.uschess.org/msa/MbrDtlMain.php?15174250)
+* Lichess profile ([@JuicyKetchup](https://lichess.org/@/JuicyKetchup))
+
+-- Starting Intro Here --
 
 Here is how you can use a variable:
 
@@ -28,6 +35,7 @@ And here is a custom component:
 You can use standard html tags if a
 component with the same name
 doesn't exist.
+
 
 * *markdown* syntax is supported.
 
