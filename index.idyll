@@ -6,13 +6,14 @@
   author:"Alan Tan"
   authorLink:"https://github.com/tanalan" /]
 
-Hi there! This will be writing a tutorial for how to play [chess](https://en.wikipedia.org/wiki/Chess),
-and trying to make the tutorial interactive using [Idyll](https://idyll-lang.org/).
+Hi there! This is an interactive tutorial for how to play [chess](https://en.wikipedia.org/wiki/Chess).
+
+It is made using [Idyll](https://idyll-lang.org/).
 
 I've been playing chess for years now, and I taught at elementary schools for about 3 years.
 
 Here are some of my online chess profiles:
-* My United States Chess Federation [Profile](http://www.uschess.org/msa/MbrDtlMain.php?15174250)
+* My United States Chess Federation [profile](http://www.uschess.org/msa/MbrDtlMain.php?15174250)
 * Lichess profile ([@JuicyKetchup](https://lichess.org/@/JuicyKetchup))
 
 -- Starting Intro Here --
