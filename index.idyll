@@ -7,6 +7,9 @@
   authorLink:"https://github.com/tanalan" /]
 
 Hi there! This is an interactive tutorial for how to play [chess](https://en.wikipedia.org/wiki/Chess).
+[Aside]
+![lichess server pic](https://de.lichess.org/assets/images/maintenance.jpg)
+[/Aside]
 
 It is made using [Idyll](https://idyll-lang.org/).
 
@@ -14,45 +17,37 @@ I've been playing chess for years now, and I taught at elementary schools for ab
 
 Here are some of my online chess profiles:
 * My United States Chess Federation [profile](http://www.uschess.org/msa/MbrDtlMain.php?15174250)
-* Lichess profile ([@JuicyKetchup](https://lichess.org/@/JuicyKetchup))
+* lichess profile [@JuicyKetchup](https://lichess.org/@/JuicyKetchup/)
 
 With that said, let us begin!
 
 # The Pieces
 ## We go in order from most simple, to most complex
-* Rook
-* Bishop
-* Queen
-* King
-* Knight
-* Pawn
+### The Rook
+The rook moves in a straight line. So long as there is no piece in its path, it can move along to a given square.
+[Aside]
+![Image of rook](http://cazaux.chez.com/images/staunton/rook.jpg)
+[/Aside]
+### The Bishop
+[Aside]
+![Image of rook](http://cazaux.chez.com/images/staunton/bishop.jpg)
+[/Aside]
+### The Queen
+[Aside]
+![Image of rook](http://cazaux.chez.com/images/staunton/queen.jpg)
+[/Aside]
+### The King
+[Aside]
+![Image of rook](http://cazaux.chez.com/images/staunton/king.jpg)
+[/Aside]
+### The Knight
+[Aside]
+![Image of rook](http://cazaux.chez.com/images/staunton/knight.jpg)
+[/Aside]
+### The Pawn
+[Aside]
+![Image of rook](http://cazaux.chez.com/images/staunton/pawn.jpg)
+[/Aside]
 
-
-Here is how you can use a variable:
-
-[var name:"exampleVar" value:5 /]
-
-[Range min:0 max:10 value:exampleVar /]
-[Display value:exampleVar /]
-
-```js
-var code = true;
-```
-
-And here is a custom component:
-
-[CustomComponent /]
-
-You can use standard html tags if a
-component with the same name
-doesn't exist.
-
-
-* *markdown* syntax is supported.
-
-[var name:"state" value:0 /]
-
-[CustomD3Component state:state /]
-[button onClick:`state++`]
-  Click Me.
-[/button]
+[script src:'https://lichess.org/tv/embed?theme=auto&bg=auto']
+[/script]
