@@ -30,23 +30,23 @@ The rook moves in a straight line. So long as there is no piece in its path, it 
 [/Aside]
 ### The Bishop
 [Aside]
-![Image of rook](http://cazaux.chez.com/images/staunton/bishop.jpg)
+![Image of bishop](http://cazaux.chez.com/images/staunton/bishop.jpg)
 [/Aside]
 ### The Queen
 [Aside]
-![Image of rook](http://cazaux.chez.com/images/staunton/queen.jpg)
+![Image of queen](http://cazaux.chez.com/images/staunton/queen.jpg)
 [/Aside]
 ### The King
 [Aside]
-![Image of rook](http://cazaux.chez.com/images/staunton/king.jpg)
+![Image of king](http://cazaux.chez.com/images/staunton/king.jpg)
 [/Aside]
 ### The Knight
 [Aside]
-![Image of rook](http://cazaux.chez.com/images/staunton/knight.jpg)
+![Image of knight](http://cazaux.chez.com/images/staunton/knight.jpg)
 [/Aside]
 ### The Pawn
 [Aside]
-![Image of rook](http://cazaux.chez.com/images/staunton/pawn.jpg)
+![Image of pawn](http://cazaux.chez.com/images/staunton/pawn.jpg)
 [/Aside]
 
 [script src:'https://lichess.org/tv/embed?theme=auto&bg=auto']
