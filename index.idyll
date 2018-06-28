@@ -13,6 +13,8 @@ Hi there! This is an interactive tutorial for how to play [chess](https://en.wik
 
 It is made using [Idyll](https://idyll-lang.org/).
 
+// Comments!
+
 I've been playing chess for years now, and I taught at elementary schools for about 3 years.
 
 Here are some of my online chess profiles:
@@ -20,6 +22,10 @@ Here are some of my online chess profiles:
 * lichess profile [@JuicyKetchup](https://lichess.org/@/JuicyKetchup/)
 
 With that said, let us begin!
+
+[Aside]
+[script src:'https://lichess.org/tv/embed?theme=auto&bg=auto'][/script]
+[/Aside]
 
 # The Pieces
 ## We go in order from most simple, to most complex
@@ -49,5 +55,5 @@ The rook moves in a straight line. So long as there is no piece in its path, it 
 ![Image of pawn](http://cazaux.chez.com/images/staunton/pawn.jpg)
 [/Aside]
 
-[script src:'https://lichess.org/tv/embed?theme=auto&bg=auto']
+[script src:'https://lichess.org/training/embed?theme=auto&bg=auto']
 [/script]
